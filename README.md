@@ -33,7 +33,7 @@ The algorithms were benchmarked using generated student ID lists ranging from 10
 * **Data Structures:** Lists and HashSets
 
 ## 📂 Repository Structure
-* **[/src](./src):** Python implementation of the `find_duplicates_naive` and `find_duplicates_optimized` functions.
+* **[📁 Source Code](./src):** Python implementation of the `find_duplicates_naive` and `find_duplicates_optimized` functions.
 * **[Report.pdf](./Finding_duplicating_element.pdf):** Full report including problem identification, pseudocode, and mathematical justifications.
 
 ---
