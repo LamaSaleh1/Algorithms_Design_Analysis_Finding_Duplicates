@@ -34,7 +34,7 @@ The algorithms were benchmarked using generated student ID lists ranging from 10
 
 ## 📂 Repository Structure
 * **[📁 Source Code](./src):** Python implementation of the `find_duplicates_naive` and `find_duplicates_optimized` functions.
-* **[Report.pdf](./Finding_duplicating_element.pdf):** Full report including problem identification, pseudocode, and mathematical justifications.
+* **[📁 Report:](./Finding_duplicating_element.pdf):** Full report including problem identification, pseudocode, and mathematical justifications.
 
 ---
 *Prepared by Lama Alghofaili (Team Leader) as part of the CS315 course requirements.*
