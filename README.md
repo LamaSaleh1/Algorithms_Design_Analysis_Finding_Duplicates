@@ -27,7 +27,7 @@ The algorithms were benchmarked using generated student ID lists ranging from 10
 | 10,000 | ~1.6128s | ~0.0002195s |
 *(Results based on empirical testing on Python runtime)*
 
-## 🛠 Tech Stack
+## 🛠 Technical Stack
 * **Language:** Python
 * **Analytical Method:** Theoretical Complexity Analysis & Empirical Benchmarking
 * **Data Structures:** Lists and HashSets
